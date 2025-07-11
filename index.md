@@ -1,4 +1,4 @@
-<link rel="icon" href="./Assets/emoticon.png" type="image/png">
+<link rel="icon" href="./Assets/fevicon.jpg" type="image/jpg">
 
 # 👋 Welcome to My Data Space
 
