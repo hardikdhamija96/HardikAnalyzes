@@ -1,3 +1,6 @@
+<link rel="icon" href="./Assets/emoticon.png">
+
+
 # 👋 Welcome to My Data Space
 
 I am Hardik, an analyst who is learning statistics and machine learning.  
