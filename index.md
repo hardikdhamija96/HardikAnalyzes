@@ -11,8 +11,8 @@ This site is where I share my interviews, projects, and learnings as I grow in t
 ### 💬 Interviews
 Reflections from real interview rounds and what I learned.
 
-- [SQL and Python question from Times Internet](InterviewExperience
-/11-07-2025-TimesInternet.md)
+- [SQL and Python question from Times Internet](InterviewExperience/11-07-2025-TimesInternet.md)
+
 
 ### 📁 Projects
 Breakdowns of my personal and case study projects.
